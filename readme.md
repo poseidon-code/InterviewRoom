@@ -3,6 +3,12 @@ You can crack any Interview if you are preparing yourself in a well organised ma
 
 I have tried my best to sort all those problems for you and ordered them as well. I hope if you follow my list and study in the same order in which i have given, it will surely help you prepare very well for the Job Interview in your 2 months vacation.
 
+## Solutions
+1. [JAVA Solutions](https://github.com/poseidon-code/InterviewRoom-JAVA-solutions)
+2. [C++ Solutions](https://github.com/poseidon-code/InterviewRoom-CPP-solutions)
+3. [Python Solutions](https://github.com/poseidon-code/InterviewRoom-Python-solutions)
+4. [Go Solutions](https://github.com/poseidon-code/InterviewRoom-GO-solutions)
+
 ## Table of Contents
 - [Data Structures](#data-structures)
   - [Array](#array)
