@@ -35,7 +35,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 8     | Find the duplicate number              |        [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 9     | Largest number formed from an array              |   [LeetCode](https://leetcode.com/problems/largest-number/) , [InterviewBit](https://www.interviewbit.com/problems/largest-number/), [GFG](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0) |
 | 10     | Next Permutation               |   [LeetCode](https://leetcode.com/problems/next-permutation/)  , [InterviewBit](https://www.interviewbit.com/problems/next-permutation/)      |
-| 11     | Merge Overlapping Intervals              |   [LeetCode](https://leetcode.com/problems/merge-intervals/) , [InterviewBit](https://www.interviewbit.com/problems/merge-intervals/), [GFG](https://www.interviewbit.com/problems/merge-intervals/) |
+| 11     | Merge Overlapping Intervals              |   [LeetCode](https://leetcode.com/problems/merge-intervals/) , [InterviewBit](https://www.interviewbit.com/problems/merge-intervals/) |
 | 12     | First Missing Positive               |   [LeetCode](https://leetcode.com/problems/first-missing-positive/)  , [InterviewBit](https://www.interviewbit.com/problems/first-missing-integer/)      |
 
 ### LinkedList
