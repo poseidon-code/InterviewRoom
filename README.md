@@ -1,4 +1,4 @@
-# InterviewRoom Solutions
+![InterviewRoom-Solution](./InterviewRoom-Solutions.jpg)
 
 You can crack any Interview if you are preparing yourself in a well organised manner. There are lots of Data Structure and Algorithm problems on internet and it is quite impossible for a person to practice all of them. So it is really important that you practice a list of few problems which are really important and covers almost every concepts.
 
