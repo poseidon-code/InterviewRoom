@@ -157,7 +157,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 6      | Matrix Search                                           | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) , [InterviewBit](https://www.interviewbit.com/problems/matrix-search/)                                                                                                            |
 | 7      | Median of Two Sorted Arrays                             | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) , [InterviewBit](https://www.interviewbit.com/problems/median-of-array/)                                                                                                 |
 
-## Dynamic Programming
+### Dynamic Programming
 
 | **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                                                                                                                                                  |
 | ------ | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -186,7 +186,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 23     | Matrix Chain Multiplication                          | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                                                                         |
 | 24     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                                                             |
 
-## Graph
+### Graph
 
 | **ID** | **PROBLEM STATEMENT**     | **PROBLEM LINK**                                                                                                                                                                                                                                                |
 | ------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
